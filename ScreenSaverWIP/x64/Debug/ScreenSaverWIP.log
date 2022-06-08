@@ -1,3 +1,6 @@
 ﻿  Reading Qt configuration (C:/Qt/Qt5.13.0/5.13.0/msvc2017_64/bin/qmake)
+  moc ScreenSaverWIP.h
   ScreenSaverWIP.cpp
+  main.cpp
+  moc_ScreenSaverWIP.cpp
   ScreenSaverWIP.vcxproj -> D:\QTPrograms\ScreenSaverWIP\x64\Debug\ScreenSaverWIP.exe
